@@ -1,1 +1,1 @@
- oddCount++;
+%d
